@@ -7,6 +7,10 @@ If you look below on the preview, you'll see the **100% Transparency** texts. Us
 
 ![image](https://user-images.githubusercontent.com/84229419/204539062-3e13e113-f6b9-4c2a-8cc6-8c09c45dbdfd.png)
 
+### Transparency example
+
+![image](https://user-images.githubusercontent.com/84229419/204552105-9b1c9473-db9a-40b4-bd48-a9b25e00f2bf.png)
+
 WiLBiT is also **optimized for good performance, good UI loading**. What does that mean? When opening/using an application that operates with the WiLBiT Framework, performance should not be an issue, neither should UI loading. Developers won't have to unnecessarily add code just for optimization of the controls.
 
 ### Support
