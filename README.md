@@ -5,6 +5,10 @@ Currently, it supports **multiple controls**, with all of them having automatic 
 
 If you look below on the preview, you'll see the **100% Transparency** texts. Usually, they would be covered with the **color of the button parent (e.g. Panel/Form color)**, but with WiLBiT, we don't let it slide!
 
+Scroll down to see a visual **Transparency example**.
+
+### WiLBiT Preview
+
 ![image](https://user-images.githubusercontent.com/84229419/204539062-3e13e113-f6b9-4c2a-8cc6-8c09c45dbdfd.png)
 
 ### Transparency example
