@@ -17,7 +17,7 @@ Scroll down to see a visual **Transparency example**.
 
 WiLBiT is also **optimized for good performance, good UI loading**. What does that mean? When opening/using an application that operates with the WiLBiT Framework, performance should not be an issue, neither should UI loading.
 
-However for **no flicker loading**, it's recommended to use the code below in your `Form.cs` file:
+However for **no flicker loading**, it's recommended to use the code below in your `Form.cs` file **(📝 NOTE: MAKE SURE `DoubleBuffered` PROPERTY IS SET TO TRUE ON YOUR FORM)**:
 
 (C#)
 ```cs
