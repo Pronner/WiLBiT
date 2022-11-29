@@ -15,60 +15,9 @@ Scroll down to see a visual **Transparency example**.
 
 ![image](https://user-images.githubusercontent.com/84229419/204552105-9b1c9473-db9a-40b4-bd48-a9b25e00f2bf.png)
 
-WiLBiT is also **optimized for good performance, good UI loading**. What does that mean? When opening/using an application that operates with the WiLBiT Framework, performance should not be an issue, neither should UI loading.
+WiLBiT is also **optimized for good performance, quick loading**. What does that mean? When opening/using an application that operates with the WiLBiT Framework, performance should not be an issue, neither should quick loading.
 
-However for **no flicker loading**, it's recommended to use the code below in your `Form.cs` file **(📝 NOTE: MAKE SURE `DoubleBuffered` PROPERTY IS SET TO TRUE ON YOUR FORM)**:
-
-(C#)
-```cs
-private Rectangle sizeGripRectangle;
-int paintReps = 0;
-
-protected override void OnPaint(PaintEventArgs e)
-{
-
-    base.OnPaint(e);
-    ControlPaint.DrawSizeGrip(e.Graphics, Color.Transparent, sizeGripRectangle);
-    System.Threading.Thread.Sleep(0);
-
-    if (paintReps++ % 500 == 0)
-        Application.DoEvents();
-
-}
-
-protected override CreateParams CreateParams
-{
-    get
-    {
-        CreateParams cp = base.CreateParams;
-        cp.ExStyle |= 0x02000000;
-
-        return cp;
-     }
-}
-```
-
-(VB)
-```vb
-Private sizeGripRectangle As Rectangle
-Private paintReps As Integer = 0
-
-Protected Overrides Sub OnPaint(ByVal e As PaintEventArgs)
-     MyBase.OnPaint(e)
-     ControlPaint.DrawSizeGrip(e.Graphics, Color.Transparent, sizeGripRectangle)
-     System.Threading.Thread.Sleep(0)
-     If Math.Min(System.Threading.Interlocked.Increment(paintReps), paintReps - 1) Mod 500 = 0 Then Application.DoEvents()
-End Sub
-
-Protected Overrides ReadOnly Property CreateParams As CreateParams
-     Get
-         Dim cp As CreateParams = MyBase.CreateParams
-         cp.ExStyle = cp.ExStyle Or &H02000000
-         Return cp
-End Get
-```
-
-This should not flicker **WiLBiT controls**, but may change the performance of your application.
+However, you may experience **bad loading for the WiLBiT controls**, but not for the form itself.
 
 ### Support
 - [x] C#.NET (100%)
