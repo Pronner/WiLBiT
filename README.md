@@ -1,4 +1,4 @@
-# ![W](https://cdn.discordapp.com/icons/873990858507186307/069985c1b4a16351efeb250bc22265be.webp?size=32)iLBiT
+# ![W](https://cdn.discordapp.com/icons/873990858507186307/069985c1b4a16351efeb250bc22265be.webp?size=40)iLBiT
 WiLBiT is a front-end framework used for C#.NET, VB.NET, (and maybe) C++.NET. Back-end code may apply. It is currently in **early development**, meaning features will be very few. It's only the beginning, however updates will be added frequently to this framework.
 
 Currently, it supports **multiple controls**, with all of them having automatic **real transparency**, meaning it won't just have the Transparent color, it will actually have the element of Transparency. You'll be able to see what's behind a control.
