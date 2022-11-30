@@ -35,7 +35,7 @@ We also have a **very smooth** and **customizable** animations engine. Here's a 
 
 ### Early development
 
-Not many features, not many updates. It's just me working on this, so I won't be able to work on it very quickly.
+Not many features, not many updates. It's just me and a few others working on this, so I won't be able to work on it very quickly.
 
 ## Licensing
 No license? No rights.\
