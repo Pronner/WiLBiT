@@ -30,8 +30,8 @@ We also have a **very smooth** and **customizable** animations engine. Here's a 
 - [x] VB.NET (100%)
 - [x] C++.NET (50%)
 
--> 100% : Fully supported, should have no irregular bugs.\
--> 50% : Not completely supported, but should function.
+-> 100% : Fully supported, should not have many issues/bugs.\
+-> 50% : Not completely supported, may have multiple bugs, but should function. (NOT CONFIRMED)
 
 ### Early development
 
