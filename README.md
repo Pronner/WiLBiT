@@ -16,9 +16,7 @@ Scroll down to see a visual **Transparency example**.
 
 ![image](https://user-images.githubusercontent.com/84229419/204552105-9b1c9473-db9a-40b4-bd48-a9b25e00f2bf.png)
 
-WiLBiT is also **optimized for good performance, quick loading**. What does that mean? When opening/using an application that operates with the WiLBiT Framework, performance should not be an issue, neither should quick loading.
-
-However, you may experience **bad loading for the WiLBiT controls**, but not for the form itself.
+WiLBiT is also **optimized for good performance**. What does that mean? When opening/using an application that operates with the WiLBiT Framework, app performance should not be an issue.
 
 ### Support
 - [x] C#.NET (100%)
