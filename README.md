@@ -14,9 +14,16 @@ Scroll down to see a visual **Transparency example**.
 
 ### Transparency example
 
-![image](https://user-images.githubusercontent.com/84229419/204552105-9b1c9473-db9a-40b4-bd48-a9b25e00f2bf.png)
+![](https://user-images.githubusercontent.com/84229419/204552105-9b1c9473-db9a-40b4-bd48-a9b25e00f2bf.png)
 
 WiLBiT is also **optimized for good performance**. What does that mean? When opening/using an application that operates with the WiLBiT Framework, app performance should not be an issue.
+
+We also have a **very smooth** and **customizable** animations engine. Here's a preview:
+
+### Animations Preview
+
+![](https://user-images.githubusercontent.com/84229419/204776842-437c396f-9ef5-40f1-8ba4-63cfc6d9e1a6.gif)
+
 
 ### Support
 - [x] C#.NET (100%)
