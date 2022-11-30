@@ -25,12 +25,24 @@ We also have a **very smooth** and **customizable** animations engine. Here's a 
 ![](https://user-images.githubusercontent.com/84229419/204776842-437c396f-9ef5-40f1-8ba4-63cfc6d9e1a6.gif)
 
 
+# ![W](https://cdn.discordapp.com/icons/873990858507186307/069985c1b4a16351efeb250bc22265be.webp?size=32)iLBiT Framework Extra Information
+
+We ALSO have a **powerful obfuscator** which is going to be available in the **WiLBiT Framework.exe** once WiLBiT gets released. With WiLBiT's Application, you'll be able to Install WiLBiT, Export it, Obfuscate apps made with WiLBiT, Check out updates, Contribute with the community, and more. Soon, you'll be able to use **Paid Versions** of WiLBiT after we add our Account System. Yes, there will be paid subscriptions soon, however you'll still be able to use **WiLBiT for Personal, Commercial use**.
+
+Want to check out how powerful our obfuscator is? Check out the image below. Some decompilers can't even decompile the protected code.
+
+### Obfuscation Preview
+
+![image](https://user-images.githubusercontent.com/84229419/204806053-60c3123a-c31e-4fd7-bab8-c8fc7607861d.png)
+
+
 ### Support
 - [x] C#.NET (100%)
-- [x] VB.NET (100%)
+- [x] VB.NET (90%)
 - [x] C++.NET (50%)
 
 -> 100% : Fully supported, should not have many issues/bugs.\
+-> 90% : Framework is fully supported, external features with the framework may not be. (NOT CONFIRMED)\
 -> 50% : Not completely supported, may have multiple bugs, but should function. (NOT CONFIRMED)
 
 ### Early development
