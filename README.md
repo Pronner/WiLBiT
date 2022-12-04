@@ -36,9 +36,9 @@ Want to check out how powerful our obfuscator is? Check out the image below. Som
 ![image](https://user-images.githubusercontent.com/84229419/204806053-60c3123a-c31e-4fd7-bab8-c8fc7607861d.png)
 
 
-### VERSION 1.1.2
+## VERSION 1.1.2
 
-About 10 controls, the animation engine and about 11 other controls were removed due to a very large amount of bugs. They will be available in future versions.
+About 10 controls available. The animation engine and about 11 other controls were removed due to a very large amount of bugs. They will be available in future versions.
 Click [here](https://www.nuget.org/packages/WiLBiT/) to get **WiLBiT Version 1.1.2**.
 
 ### Support
