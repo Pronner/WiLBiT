@@ -20,7 +20,7 @@ WiLBiT is also **optimized for good performance**. What does that mean? When ope
 
 We also have a **very smooth** and **customizable** animations engine. Here's a preview:
 
-### Animations Preview
+### Animations Preview (Feature currently unavailable)
 
 ![](https://user-images.githubusercontent.com/84229419/204776842-437c396f-9ef5-40f1-8ba4-63cfc6d9e1a6.gif)
 
