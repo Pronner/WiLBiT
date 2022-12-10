@@ -36,10 +36,10 @@ Want to check out how powerful our obfuscator is? Check out the image below. Som
 ![image](https://user-images.githubusercontent.com/84229419/204806053-60c3123a-c31e-4fd7-bab8-c8fc7607861d.png)
 
 
-## VERSION 1.1.3
+## VERSION 1.1.4
 
-About 13 controls available. The animation engine and about 8 other controls were removed due to a very large amount of bugs. They will be available in future versions.
-Click [here](https://www.nuget.org/packages/WiLBiT/) to get **WiLBiT Version 1.1.3**.
+About 29 controls available.
+Click [here](https://www.nuget.org/packages/WiLBiT/) to get **WiLBiT Version 1.1.4**.
 
 ### Support
 - [x] C#.NET (100%)
